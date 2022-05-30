@@ -187,9 +187,9 @@ USE_MDFILE_AS_MAINPAGE =
 # Configuration options related to source browsing
 #---------------------------------------------------------------------------
 SOURCE_BROWSER         = YES
-INLINE_SOURCES         = NO
+INLINE_SOURCES         = YES
 STRIP_CODE_COMMENTS    = YES
-REFERENCED_BY_RELATION = NO
+REFERENCED_BY_RELATION = YES
 REFERENCES_RELATION    = NO
 REFERENCES_LINK_SOURCE = YES
 SOURCE_TOOLTIPS        = YES
