@@ -1,10 +1,15 @@
+using IKManager;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Check if the robot stays within its movement bounds
+/// </summary>
 public class ArmBoundsCheck : MonoBehaviour
 {
-    private LinearMovement linearMovement;
+    [SerializeField]
+    private CustomIKManager customIKManager;
 
     public bool FreeMovement { get; private set; }
 
@@ -13,7 +18,6 @@ public class ArmBoundsCheck : MonoBehaviour
     private void Start()
     {
         FreeMovement = true;
-        linearMovement = HandManager.Instance.LeftController.GetComponent<LinearMovement>();
     }
 
     private void OnDrawGizmos()
@@ -30,7 +34,7 @@ public class ArmBoundsCheck : MonoBehaviour
         if (other.CompareTag("ArmBounds"))
         {
             FreeMovement = false;
-            linearMovement.inBounds = FreeMovement;
+            customIKManager.inBounds = FreeMovement;
         }
     }
 
@@ -39,7 +43,7 @@ public class ArmBoundsCheck : MonoBehaviour
         if (other.CompareTag("ArmBounds"))
         {
             FreeMovement = true;
-            linearMovement.inBounds = FreeMovement;
+            customIKManager.inBounds = FreeMovement;
         }
     }
 }

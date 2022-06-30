@@ -1,0 +1,440 @@
+{
+  "phases": [
+    {
+        "phaseNumber": "0",
+        "phaseName": "Onboarding",
+        "startTime": "195",
+        "endTime": "3289",
+        "subPhases": [
+            {
+                "subPhaseNumber": "0",
+                "message": "Hey, I'm RBI-2! Your guide for this training",
+                "startTime": "203",
+                "endTime": "660"
+            },
+
+            {
+                "subPhaseNumber": "1",
+                "message": "What's your name?",
+                "startTime": "665",
+                "endTime": "916"
+            },
+
+            {
+                "subPhaseNumber": "2",
+                "message": "Awesome!",
+                "startTime": "921",
+                "endTime": "1088"
+            },
+
+            {
+                "subPhaseNumber": "3",
+                "message": "Time to get to work",
+                "startTime": "1093",
+                "endTime": "1239"
+            },
+
+            {
+                "subPhaseNumber": "4",
+                "message": "Let's start with the controls",
+                "startTime": "1244",
+                "endTime": "1515"
+            },
+
+            {
+                "subPhaseNumber": "5",
+                "message": "",
+                "startTime": "1520",
+                "endTime": "1643"
+            },
+
+            {
+                "subPhaseNumber": "6",
+                "message": "Follow me!",
+                "startTime": "1647",
+                "endTime": "1763"
+            },
+
+            {
+                "subPhaseNumber": "7",
+                "message": "",
+                "startTime": "2472",
+                "endTime": "2554"
+            },
+
+            {
+                "subPhaseNumber": "8",
+                "message": "With the press pose you can gently press buttons",
+                "startTime": "2559",
+                "endTime": "2885"
+            },
+
+            {
+                "subPhaseNumber": "9",
+                "message": "",
+                "startTime": "2890",
+                "endTime": "2972"
+            },
+
+            {
+                "subPhaseNumber": "10",
+                "message": "",
+                "startTime": "3077",
+                "endTime": "3139"
+            },
+
+            {
+                "subPhaseNumber": "11",
+                "message": "Let's move on!",
+                "startTime": "3144",
+                "endTime": "3289"
+            }
+        ]
+    },
+
+    {
+        "phaseNumber": "1",
+        "phaseName": "Phase1",
+        "startTime": "4417",
+        "endTime": "11635",
+        "subPhases": [
+            {
+                "subPhaseNumber": "0",
+                "message": "The flexpendant",
+                "startTime": "4422",
+                "endTime": "4626"
+            },
+
+            {
+                "subPhaseNumber": "1",
+                "message": "This is the controller for the robot arm",
+                "startTime": "4731",
+                "endTime": "4885"
+            },
+
+            {
+                "subPhaseNumber": "2",
+                "message": "Touch the hologram to pick it up",
+                "startTime": "5090",
+                "endTime": "5518"
+            },
+
+            {
+                "subPhaseNumber": "3",
+                "message": "",
+                "startTime": "6063",
+                "endTime": "6225"
+            },
+
+            {
+                "subPhaseNumber": "4",
+                "message": "Hold down the safety button to control the robot arm",
+                "startTime": "6230",
+                "endTime": "6757"
+            },
+
+            {
+                "subPhaseNumber": "5",
+                "message": "Can you see the orange hologram on the base of the robot arm?",
+                "startTime": "6762",
+                "endTime": "7325"
+            },
+
+
+            {
+                "subPhaseNumber": "6",
+                "message": "Move the correct axis to line up the robot arm with the hologram",
+                "startTime": "7330",
+                "endTime": "7925"
+            },
+
+            {
+                "subPhaseNumber": "7",
+                "message": "",
+                "startTime": "7930",
+                "endTime": "8092"
+            },
+
+            {
+                "subPhaseNumber": "8",
+                "message": "Press this button to reset the position of the robot arm",
+                "startTime": "8097",
+                "endTime": "8489"
+            },
+
+            {
+                "subPhaseNumber": "9",
+                "message": "",
+                "startTime": "8494",
+                "endTime": "8656"
+            },
+
+            {
+                "subPhaseNumber": "10",
+                "message": "",
+                "startTime": "8661",
+                "endTime": "9002"
+            },
+
+            {
+                "subPhaseNumber": "11",
+                "message": "",
+                "startTime": "9007",
+                "endTime": "9122"
+            },
+
+            {
+                "subPhaseNumber": "12",
+                "message": "Look at the flexpendant to see how to switch axes",
+                "startTime": "9122",
+                "endTime": "9382"
+            },
+
+            {
+                "subPhaseNumber": "13",
+                "message": "",
+                "startTime": "9387",
+                "endTime": "9549"
+            },
+
+            {
+                "subPhaseNumber": "14",
+                "message": "",
+                "startTime": "9554",
+                "endTime": "9716"
+            },
+
+            {
+                "subPhaseNumber": "15",
+                "message": "",
+                "startTime": "9721",
+                "endTime": "10063"
+            },
+
+            {
+                "subPhaseNumber": "16",
+                "message": "Good job!",
+                "startTime": "10068",
+                "endTime": "10232"
+            }
+        ]
+    },
+
+    {
+      "phaseNumber": "2",
+      "phaseName": "Phase2",
+      "startTime": "10232",
+      "endTime": "",
+      "subPhases": [
+        {
+          "subPhaseNumber": "0",
+          "message": "Look at the flexpendant to see how to switch mode",
+          "startTime": "10237",
+          "endTime": "10501"
+        },
+
+        {
+          "subPhaseNumber": "1",
+          "message": "Now you can move the end-effector in a staight line",
+          "startTime": "10506",
+          "endTime": "10935"
+        },
+
+        {
+          "subPhaseNumber": "2",
+          "message": "",
+          "startTime": "10940",
+          "endTime": "11102"
+        },
+
+        {
+          "subPhaseNumber": "3",
+          "message": "",
+          "startTime": "11107",
+          "endTime": "11269"
+        },
+
+        {
+          "subPhaseNumber": "4",
+          "message": "",
+          "startTime": "11274",
+          "endTime": "11616"
+        },
+
+        {
+          "subPhaseNumber": "5",
+          "message": "Now try to move the end of the robot arm into the green sphere",
+          "startTime": "11621",
+          "endTime": "11940"
+        },
+
+        {
+          "subPhaseNumber": "6",
+          "message": "Look at the flexpendant to see how to toggle between increments",
+          "startTime": "11945",
+          "endTime": "12240"
+        },
+
+        {
+          "subPhaseNumber": "7",
+          "message": "",
+          "startTime": "12270",
+          "endTime": "12321"
+        },
+
+        {
+          "subPhaseNumber": "8",
+          "message": "",
+          "startTime": "12325",
+          "endTime": "12376"
+        },
+
+        {
+          "subPhaseNumber": "9",
+          "message": "Well done!",
+          "startTime": "12380",
+          "endTime": "12395"
+        }
+      ]
+    },
+
+    {
+        "phaseNumber": "3",
+        "phaseName": "Safety",
+        "startTime": "14187",
+      "subPhases": [
+        {
+          "subPhaseNumber": "0",
+          "message": "On this poster you can find the main safety rules",
+          "startTime": "14192",
+          "endTime": "14621"
+        },
+
+        {
+          "subPhaseNumber": "1",
+          "message": "Always follow these rules when operating the robot arm",
+          "startTime": "14626",
+          "endTime": "15061"
+        },
+
+        {
+          "subPhaseNumber": "2",
+          "message": "If an accident occurs, you can press 1 of 2 emergency buttons",
+          "startTime": "15066",
+          "endTime": "15501"
+        },
+
+        {
+          "subPhaseNumber": "3",
+          "message": "The brakes will then lock the robot arm immediately",
+          "startTime": "15506",
+          "endTime": "15941"
+        },
+
+        {
+          "subPhaseNumber": "4",
+          "message": "The first one is on the flexpendant",
+          "startTime": "15946",
+          "endTime": "16321"
+        },
+
+        {
+          "subPhaseNumber": "5",
+          "message": "And the second emergency button is the red one on the IRC5",
+          "startTime": "16323",
+          "endTime": "16890"
+        },
+
+        {
+          "subPhaseNumber": "6",
+          "message": "To unlock the robot arm again you have to press this button on the IRC5",
+          "startTime": "16895",
+          "endTime": "17295"
+        },
+
+        {
+          "subPhaseNumber": "7",
+          "message": "In this training there is no automatic mode yet",
+          "startTime": "17877",
+          "endTime": "18170"
+        },
+
+        {
+          "subPhaseNumber": "8",
+          "message": "But the robot arm will also shut down when you enter the cage while the robot arm is running in automatic mode",
+          "startTime": "18175",
+          "endTime": "18755"
+        }
+      ]
+    },
+    {
+      "phaseNumber": "4",
+      "phaseName": "Offboarding",
+      "startTime": "19105",
+      "subPhases": [
+        {
+          "subPhaseNumber": "0",
+          "message": "You have finished the training!",
+          "startTime": "19110",
+          "endTime": "19513"
+        },
+
+        {
+          "subPhaseNumber": "1",
+          "message": "You have earned the yellow gloves",
+          "startTime": "19518",
+          "endTime": "19884"
+        },
+
+        {
+          "subPhaseNumber": "2",
+          "message": "Press the big red button to open the case",
+          "startTime": "19889",
+          "endTime": "20320"
+        },
+
+        {
+          "subPhaseNumber": "3",
+          "message": "Use this menu to go back to a certain phase",
+          "startTime": "20781",
+          "endTime": "22176"
+        },
+
+        {
+          "subPhaseNumber": "4",
+          "message": "Or press this orange button to play a minigame",
+          "startTime": "21181",
+          "endTime": "21662"
+        }
+      ]
+    },
+
+    {
+      "phaseNumber": "5",
+      "phaseName": "Pre-Minigame",
+      "startTime": "21667",
+      "subPhases": [
+        {
+          "subPhaseNumber": "0",
+          "message": "",
+          "startTime": "21667",
+          "endTime": "21765"
+        }
+      ]
+    },
+
+    {
+      "phaseNumber": "6",
+      "phaseName": "Minigame",
+      "startTime": "21765",
+      "subPhases": [
+        {
+          "subPhaseNumber": "0",
+          "message": "Move the end-effector in the green sphere while dodging the red ones",
+          "startTime": "21765",
+          "endTime": "21855"
+        }
+      ]
+    }
+  ]
+}
